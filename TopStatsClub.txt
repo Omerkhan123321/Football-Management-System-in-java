@@ -1,0 +1,10 @@
+Real Madrid,Cristiano Ronaldo,450,Karim Benzema,105,Iker Casillas,102
+FC Barcelona,Lionel Messi,672,Lionel Messi,480,Victor Valdes,79
+Manchester United,Wayne Rooney,255,Ryan Giggs,207,De Gea,107
+Bayern Munich,Gerd Muller,385,Thomas Muller,215,Manuel Neuer,115
+PSG,Mbappe,210,Angel Di Maria,175,Sirigu,75
+Manchester City,Sergio Aguero,260,Kevin De Bryune,195,Ederson,80
+Liverpool,Steven Gerrard,185,Steven Gerrard,105,Pepe Reina,89
+Chelsea,Frank Lampard,185,Eden Hazard,105,Peter Cech,127
+Arsenal,Thierry Henry,195,Theirry Henry,110,Jens Lehmann,76
+Borussia Dortmund,Marco Reus,108,Marco Reus,125,Roman Widenfeller,99

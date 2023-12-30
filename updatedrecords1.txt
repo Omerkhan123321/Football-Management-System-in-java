@@ -1,0 +1,68 @@
+ID100040,Manchester City,Manchester,Etihad Stadium,Pep Guardiola,Kevin De Bruyne,£200 million
+ID100041,Manchester United,Manchester,Old Trafford,Ole Gunnar Solskjær,Harry Maguire,£200 million
+ID100042,Liverpool,Liverpool,Anfield,Jurgen Klopp,Mohamed Salah,£150 million
+ID100043,Chelsea,London,Stamford Bridge,Thomas Tuchel,N'Golo Kanté,£150 million
+ID100044,Arsenal,London,Emirates Stadium,Mikel Arteta,Pierre-Emerick Aubameyang,£100 million
+ID100045,Tottenham Hotspur,London,Tottenham Hotspur Stadium,Nuno Espirito Santo,Harry Kane,£100 million
+ID100046,Leicester City,Leicester,King Power Stadium,Brendan Rodgers,Jamie Vardy,£80 million
+ID100047,West Ham United,London,London Stadium,David Moyes,Declan Rice,£70 million
+ID100048,Everton,Liverpool,Goodison Park,Rafael Benitez,Dominic Calvert-Lewin,£70 million
+ID100049,Leeds United,Leeds,Elland Road,Marcelo Bielsa,Patrick Bamford,£60 million
+ID100050,Aston Villa,Birmingham,Villa Park,Steven Gerrard,Jack Grealish,£60 million
+ID100052,Crystal Palace,London,Selhurst Park,Patrick Vieira,Wilfried Zaha,£50 million
+ID100053,Southampton,Southampton,St Mary's Stadium,Ralph Hasenhüttl,James Ward-Prowse,£40 million
+ID100056,Newcastle United,Newcastle upon Tyne,St James' Park,Eddie Howe,Callum Wilson,£30 million
+ID100057,Fulham,London,Craven Cottage,Scott Parker,Aleksandar Mitrovic,£20 million
+ID100059,Norwich City,Norwich,Carrow Road,Daniel Farke,Teemu Pukki,£20 million
+ID100009,Al-Nassar,Riyadh,Riyadh International,Cristiano Ronaldo,Andres Taliska,1 Billion Riyals
+ID100010,Inter Miami,Miami,Miami International,David Bekham,Lionel Messi,150$ Million
+ID100011,villareal,spain,estadi der la ceramica,Quique setien,nickolas jackson,120 Million
+ID100002,Bayern Munich,Munich,Allianz Arena,Julian Nagelsmann,Robert Lewandowski,€150 million
+ID100004,RB Leipzig,Leipzig,Red Bull Arena,Jesse Marsch,Dayot Upamecano,€100 million
+ID100006,Bayer Leverkusen,Leverkusen,BayArena,Gerardo Seoane,Nadiem Amiri,€70 million
+ID100007,VfL Wolfsburg,Wolfsburg,Volkswagen Arena,Mark van Bommel,Wout Weghorst,€70 million
+ID100008,Eintracht Frankfurt,Frankfurt,Deutsche Bank Park,Oliver Glasner,André Silva,€60 million
+ID100009,Hertha BSC,Berlin,Olympiastadion Berlin,Pal Dardai,Matheus Cunha,€60 million
+ID100010,1. FC Union Berlin,Berlin,Stadion An der Alten Försterei,Urs Fischer,Max Kruse,€40 million
+ID100011,TSG Hoffenheim,Sinsheim,PreZero Arena,Sebastian Hoeneß,Andrej Kramarić,€50 million
+ID100012,SC Freiburg,Freiburg,Schwarzwald-Stadion,Christian Streich,Vincenzo Grifo,€40 million
+ID100013,1. FC Köln,Cologne,RheinEnergieStadion,Steffen Baumgart,Florian Kainz,€40 million
+ID100015,FSV Mainz 05,Mainz,Opel Arena,Bo Svensson,Robin Quaison,€30 million
+ID100016,Arminia Bielefeld,Bielefeld,SchücoArena,Frank Kramer,Ritsu Doan,€20 million
+ID100017,VfB Stuttgart,Stuttgart,Mercedes-Benz Arena,Pellegrino Matarazzo,Sasa Kalajdzic,€30 million
+ID100018,Greuther Fürth,Fürth,Sportpark Ronhof Thomas Sommer,Stefan Leitl,Havard Nielsen,€20 million
+ID100019,FC Köln,Berlin,Olympiastadion Berlin,Pal Dardai,Matheus Cunha,€30 million
+ID100020,Real Madrid,Madrid,Santiago Bernabeu,Carlo Ancelotti,Karim Benzema,€200 million
+ID100021,Barcelona,Barcelona,Camp Nou,Ronald Koeman,Lionel Messi,€150 million
+ID100022,Atletico Madrid,Madrid,Wanda Metropolitano,Diego Simeone,Luis Suárez,€100 million
+ID100023,Sevilla,Seville,Ramón Sánchez Pizjuán,Julen Lopetegui,Youssef En-Nesyri,€100 million
+ID100024,Real Sociedad,San Sebastian,Anoeta Stadium,Imanol Alguacil,Mikel Oyarzabal,€80 million
+ID100025,Real Betis,Seville,Benito Villamarín,Manuel Pellegrini,Nabil Fekir,€70 million
+ID100026,Villarreal,Villarreal,Estadio de la Cerámica,Unai Emery,Gerard Moreno,€70 million
+ID100027,Celta Vigo,Vigo,Abanca-Balaídos,Eduardo Coudet,Iago Aspas,€60 million
+ID100029,Granada,Granada,Estadio Nuevo Los Cármenes,Robert Moreno,Jorge Molina,€40 million
+ID100030,Levante,Valencia,Estadio Ciudad de Valencia,Paco López,José Luis Morales,€50 million
+ID100031,Valencia,Valencia,Mestalla,Javi Gracia,Carlos Soler,€40 million
+ID100032,Osasuna,Pamplona,El Sadar,Jagoba Arrasate,Rubén García,€40 million
+ID100033,Cadiz,Cadiz,Estadio Ramón de Carranza,Álvaro Cervera,Anthony Lozano,€30 million
+ID100034,Mallorca,Palma,Estadi de Son Moix,Luis García Plaza,Dani Rodríguez,€30 million
+ID100035,Alaves,Vitoria-Gasteiz,Estadio Mendizorrotza,Javi Calleja,Joselu,€20 million
+ID100036,Elche,Elche,Estadio Martínez Valero,Fran Escribá,Lucas Boyé,€30 million
+ID100037,Espanyol,Barcelona,RCDE Stadium,Vicente Moreno,Raul de Tomas,€30 million
+ID100038,Getafe,Getafe,Coliseum Alfonso Pérez,José Bordalás,Jaime Mata,€20 million
+ID100039,Rayo Vallecano,Madrid,Estadio de Vallecas,Andoni Iraola,Álvaro García,€20 million
+ID100060,Atlanta United FC,Atlanta,Mercedes-Benz Stadium,Gabriel Heinze,Josef Martinez,$15 million
+ID100061,Austin FC,Austin,Q2 Stadium,Josh Wolff,Cecilio Domínguez,$20 million
+ID100062,Chicago Fire FC,Chicago,Soldier Field,Raphael Wicky,Robert Beric,$15 million
+ID100063,FC Cincinnati,Cincinnati,TQL Stadium,Jaap Stam,Brenner Souza da Silva,$15 million
+ID100064,Colorado Rapids,Commerce City,Dick's Sporting Goods Park,Robin Fraser,Diego Rubio,$10 million
+ID100065,Columbus Crew,Columbus,Lower.com Field,Caleb Porter,Lucas Zelarayán,$15 million
+ID100066,FC Dallas,Frisco,Toyota Stadium,Luchi Gonzalez,Jesus Ferreira,$10 million
+ID100067,D.C. United,Washington,Audi Field,Hernán Losada,Ola Kamara,$15 million
+ID100068,Houston Dynamo FC,Houston,BBVA Stadium,Tab Ramos,Maxi Urruti,$10 million
+ID100069,Inter Miami CF,Miami,DRV PNK Stadium,Phil Neville,Gonzalo Higuaín,$20 million
+ID100070,Los Angeles FC,Los Angeles,Banc of California Stadium,Bob Bradley,Carlos Vela,$20 million
+ID100078,Orlando City SC,Orlando,Exploria Stadium,Oscar Pareja,Nani,$15 million
+ID100080,Portland Timbers,Portland,Providence Park,Giovanni Savarese,Diego Valeri,$15 million
+ID100081,Real Salt Lake,Sandy,Rio Tinto Stadium,Freddy Juarez,Albert Rusnak,$10 million
+ID100084,Sporting Kansas City,Kansas City,Children's Mercy Park,Peter Vermes,Alan Pulido,$15 million

@@ -1,0 +1,10 @@
+1,Argentina,1840
+2,France,1838
+3,Brazil,1834
+4,Belgium,1792.50
+5,England,1792.40
+6,Netherlands,1730
+7,Croatia,1730
+8,Italy,1713
+9,Portugal,1707
+10,Spain,1682

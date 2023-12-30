@@ -1,0 +1,18 @@
+100001,Manchester United,Manchester,Old Trafford,Ole Gunnar Solskjær,Harry Maguire,£200 million
+100002,Manchester City,Manchester,Etihad Stadium,Pep Guardiola,Kevin De Bruyne,£250 million
+100003,sdgag,agsrgsg,rsgsrg,gsrgserg,sggsegr,£180 million
+100004,Bottom Tank,Sponge Bob,Thio,Milva,Oliver Twist,£220 million
+100005,Botteled Arsenal,Ainfeild,Jug,Yeager,Bukayo Saka,889 Million Pounds
+100006,Tottenham Hotspur,London,Tottenham Hotspur Stadium,Nuno Espirito Santo,Harry Kane,£200 million
+100007,Everton FC,Liverpool,Goodison Park,Rafael Benitez,Seamus Coleman,£120 million
+100008,Leicester City,Leicester,King Power Stadium,Brendan Rodgers,Kasper Schmeichel,£100 million
+100009,West Ham United,London,London Stadium,David Moyes,Mark Noble,£80 million
+100010,Aston Villa,Birmingham,Villa Park,Dean Smith,Jack Grealish,£90 million
+ID136876,Talal,Gill,System,Exit,The,9820
+ID881797,Al-Nassar,Riyadh,Riyadh International,Cristiano Ronaldo,Andres Taliska,1 Billion Riyals
+ID776820,Bela,MCP,TOKYO,Zain Abu,Taylor Auntie,0
+ID460631,Hamza fc,Islamabad,Signal Iduna Park,Julian Naglesmen,Cristinao Andres Ronaldo,100 Rupees
+ID435369,Jred Dunn,California,Silicon Vallye,Petter Dury,Richard Hendricks,985$ Million
+ID327082,Inter Miami,Miami,Miami International,David Bekham,Lionel Messi,150$ Million
+ID578008,Lakers NBA,Florida,Los Aenglas,James Harden,LeBron James,985$ Million
+ID604176,Update Team,City,Manchester,United,Diago,89
